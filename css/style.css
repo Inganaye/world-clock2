@@ -1,4 +1,8 @@
 body {
+  text-align: center;
   background-color: plum;
   color: white;
+}
+footer {
+  text-align: center;
 }
